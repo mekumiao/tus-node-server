@@ -60,8 +60,6 @@
     "tus-js-client": "^2.3.0"
   },
   "dependencies": {
-    "@google-cloud/storage": "^6.2.2",
-    "aws-sdk": "^2.1064.0",
     "configstore": "^5.0.1",
     "debug": "^4.3.3"
   }
